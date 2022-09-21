@@ -3,8 +3,7 @@ Códigos hechos en Python en los que he omitido nombres de usuarios y algunas di
 
 #Open planillas Excel: Es un programa en el cual se listan varias planillas Excel que se pueden abrir con solo presionar el botón asociado correspondiente. Se utiliza la librería OS para abrir las planillas Excel como si se les hiciera doble click normalmente y la librería Tkinter le proporciona la interfaz gráfica para crear la ventana y los botones correspondientes.
 
-
-![Screenshot](planillas excels.jpeg)
+[![Screenshot](planillas excels.jpeg)](https://github.com/wglopez/Python/blob/48f9d16b17cf7aabda79c1c973acf3def72688c6/open%20planillas%20excels.jpeg)
 
 
 
