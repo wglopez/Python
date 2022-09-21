@@ -9,3 +9,6 @@ Códigos hechos en Python en los que he omitido nombres de usuarios y algunas di
 
 
 #Delete profiles: Es un programa que borra registros de usuarios en el REGEDIT y la carpeta con los datos de dicho usuario. Se ayuda con la librería OS para poder ejecutar comandos del CMD y poder acceder al REGEDIT, y se utiliza la librería Tkinter para darle la interfaz gráfica con los checkbox y el botón. además, se utilizó la librería Pandas para acomodar y limpiar algunos datos en los archivos .txt que se generaban con el CMD.
+
+[![Screenshot](delete profiles.jpeg)](https://github.com/wglopez/Python/blob/5364bdb6dccd60521c4fa1954537da989f035a2b/delete%20profiles.jpeg)
+
